@@ -1,0 +1,46 @@
+* {   
+	font-family: 'BabelStoneModernRegular'; 
+  	font-weight: normal; 
+   	font-style: normal; 
+	color: #665544;
+	text-align: center;}
+body {
+	width: 90%;
+	margin: 0 auto;
+	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/S15GBCm/colorful-cartoon-nature-background-with-space-for-your-text-or-logo-nice-sunny-day-with-some-clouds_ehseqyaig__F0000.png");
+	background-size: 1700px 1000px;
+	background-repeat:no-repeat;}
+#content {
+	overflow: auto;}
+#nav, #feature, #footer {
+	margin: 1%;}
+.column1, .column2, .column3 {
+	width: 31.3%;
+	float: left;
+	margin: 1%;}
+.column1 {
+	background-color:#AFEEEE;
+}
+.column2 {
+	background-color:#800000;
+}
+.column3 {
+	background-color: #F08080;
+	margin-right: 0%;}
+li {
+	display: inline;
+	padding: 0.5em;}
+#nav, #footer {
+	background-color: #EE82EE;
+	padding: 0.5em 0;}
+#feature {
+	height: 10em;
+	margin-bottom: 1em;
+	background-color: #E6E6FA;
+	background-image: url("http://www.clker.com/cliparts/M/I/J/t/i/o/star-md.png");
+ 	background-size:contain;
+ 	background-position: right;
+ 	background-repeat:no-repeat;}
+.article {
+	height: 10em;
+	margin-bottom: 1em;}
